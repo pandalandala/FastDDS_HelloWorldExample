@@ -1,4 +1,4 @@
-# workspace_DDSHelloWorld
+# FastDDS_HelloWorldExample
 
 ## 1. File Tree
     ```
