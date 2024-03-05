@@ -1,7 +1,6 @@
 # FastDDS_HelloWorldExample
 
 ## 1. File Tree
-    ```
     .
     └── workspace_DDSHelloWorld
         ├── build
@@ -16,7 +15,6 @@
             ├── HelloWorldPubSubTypes.cxx
             ├── HelloWorldPubSubTypes.h
             └── HelloWorldSubscriber.cpp
-    ```
 
 ## 2. Environment and Start
 1. OS: Windows 10/11
